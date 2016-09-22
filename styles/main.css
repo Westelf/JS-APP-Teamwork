@@ -3,6 +3,7 @@
     top: 35%;
 }*/
 
+/*Start/Home page additional stylings*/
 .page-title {
     margin-top: 0px;
 }
@@ -26,4 +27,12 @@
 
 .footer-names {
     margin-left: 38px;
+}
+
+.carousel-indicators li{
+    background-color: lightgrey;
+}
+
+.carousel-indicators li.active{
+    background-color: #337ab7;
 }
